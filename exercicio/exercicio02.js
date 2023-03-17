@@ -22,5 +22,5 @@ class Carro {
 }
 
 const uno = new Carro ('Fiat', 'Prata', 1 / 10);
-console.log(uno.caucularViagem());
+console.log(uno.caucularViagem(70, 5));
 
